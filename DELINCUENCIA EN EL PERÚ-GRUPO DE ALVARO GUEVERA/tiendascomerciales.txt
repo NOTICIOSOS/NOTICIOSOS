@@ -1,0 +1,44 @@
+<HTML>
+<HEAD>
+<TITLE> ROBO EN CENTROS COMERCIALES</TITLE>
+<meta charset="utf-8">
+<script>
+window.onload=function(){alert('Bienvenido a esta pagina');}
+window.onunload=function(){alert('Vuelva en otro momento');}
+</script>
+</HEAD>
+
+<body bgcolor="skyblue"
+TEXT="black"
+LINK="green"
+VLINK="purple">
+
+<hr size=5>
+<h1 align=center>
+
+<HR>
+ROBO EN CENTROS COMERCIALES
+<hr size=10>
+</H1>
+<p>
+<table align="center" width="50" cellspacing="0" cellpadding="5" border="4" >
+<tbody>
+<tr>
+<td><img src="img/1.jpg" width="200" height="200"/>
+<td><img src="img/2.jpg"width="200" height="200"/>
+</tr>
+<tr>
+<td><img src="img/3.jpg "width="200" height="200"/>
+<td><img src="img/4.jpg "width="200" height="200"/>
+</tr>
+</tbody>
+</table>
+<p> 
+Incluso pensando que en una tienda comercial, en un restaurante, o en la bodega de tu casa. Uno ya no puede estar tranquilo. Tanto como usted o como yo sabemos que la inseguridad ciudadana ha incrementado. En los lugares donde antes, comúnmente se pensaba estar seguro, es ahora el menos seguro. Los últimos hechos que impactaron en cuestión de robo de tiendas, tenemos al asalto de la tienda ISHOP de la marca Apple en el Real Plaza Salaverry en menos de 10 minutos. Otro ejemplo es de la tienda SONY en San Borja. Robando en promedio de total de medio millón de soles. 
+<center>
+<video src="videos/trabajo.mov" controls widht="640px" height="480px"></video> </center>
+<p> Vea también:</p>
+<center> <section id="v1"> <a href="robomanoarmada.html"> Robos a Mano armada</section></center>
+ <center> <section id="v1"> <a href="tiendascomerciales.html"> Robos en Centros Comerciales</center>
+<center> <section id="v1"><A HREF="index.html"> Inicio</center>
+

@@ -1,0 +1,63 @@
+<!doctype html>
+<HTML>
+<HEAD>
+<TITLE>portal principal</TITLE>
+<meta charset="utf-8">
+<link rel="stylesheet" href="estilos/estilos.css">
+<script>
+window.onload=function(){alert('Bienvenido a esta pagina');}
+window.onunload=function(){alert('Vuelva en otro momento');}
+</script>
+</HEAD>
+<body bgcolor="black"
+TEXT="red"
+LINK="black"
+VLINK="purple">
+
+<hr size=5>
+<h1 align=center>
+<P>
+<MARQUEE>NOTICIOSOS</MARQUEE>
+<P>
+<HR>
+DELINCUENCIA EN EL PERÚ
+<hr size=10>
+</H1>
+<CENTER><a href="img/delincuenciail3.jpg"><img src="img/delincuenciail3.jpg"
+width=400 height=270></a>
+
+<H3> Te ofrecemos información la delincuencia en nuestro país. Y qué hacer en casos como éste.</H3><BR>
+</CENTER>
+
+
+<nav>
+ <center> <section id="v1"> <a href="robomanoarmada.html"> Robos a Mano armada</section></center>
+ <center> <section id="v2"> <a href="hurtosalpaso.html"> Hurtos al paso</section>  </center>
+ <center> <section id="v1"> <a href="tiendascomerciales.html"> Robos en Centros Comerciales</section>
+ </nav>
+
+<CENTER>
+<P><TABLE BORDER=5>
+<TR>
+
+<td><a href="img/roboarmado.jpg"><img src="img/roboarmado.jpg" width=300 heigth=200></a>
+<td><a href="delincuencia4.jpg"><img src="img/delincuencia4.jpg" width=300 heigth=200></a>
+<td><a href="img/delincuencia2.jpg"><img src="img/delincuencia2.jpg" width=300 heigth=200></a>
+
+</TR>
+</TABLE></CENTER>
+<P><CENTER><embed src="img/este.gif" width="290" height="310"></CENTER>
+<P>
+<P>
+<P>
+<P>
+<CENTER><A HREF="mailto:...@bausate.edu.pe">Cualquier comentario sobre esta página,
+conectarse al e-mail: dnmontealegre@bausate.edu.pe</a>
+
+
+</CENTER>
+<P>
+
+</body>
+</HTML>
+
